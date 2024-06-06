@@ -14,10 +14,8 @@ footer{
 header{
     background-color: aliceblue;
 }
-#text.color {
-    h2{
-        color: violet;
-    }
+#fotos.trabajos img{
+    width: 500px;
+    height: 250px;
 }
-    
     
