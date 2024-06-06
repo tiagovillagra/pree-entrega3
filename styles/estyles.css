@@ -1,4 +1,23 @@
-#nav{
-    font-size: medium;
-    
+.nav-link{
+    color: blueviolet;
 }
+footer{
+    background-color: blueviolet;
+}
+.navbar-brand{
+    img{
+    width: 64px;
+    height: 50px;
+    background-color: aliceblue;
+}
+}
+header{
+    background-color: aliceblue;
+}
+#text.color {
+    h2{
+        color: violet;
+    }
+}
+    
+    
